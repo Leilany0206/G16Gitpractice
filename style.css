@@ -1,0 +1,23 @@
+* {
+    background-color: rgb(255, 197, 212);
+}
+
+.container {
+    background-color: orangered;
+    height: 400px
+    width: 100%
+    display: flex;
+    justify-content: space-between; 
+}
+
+.box {
+    background-color: fuchsia;
+}
+
+a:hover {
+    color: blueviolet
+}
+
+div {
+    color: blue;
+}
